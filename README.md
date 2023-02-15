@@ -1,7 +1,9 @@
 # SIMPLE BANGET API USING EXPRESSJS
 
-I LOVE U ALL!!!
-
+### TECH STACK : 
+- NodeJs
+- ExpressJs
+- MongoDB
 ---
 ## Requirements
 
