@@ -4,6 +4,11 @@
 - NodeJs
 - ExpressJs
 - MongoDB
+
+### MODULES
+- [Mongoose](https://mongoosejs.com/docs/index.html)
+- [Nodemon](https://nodemon.io/)
+- [Express](https://expressjs.com/)
 ---
 ## Requirements
 
